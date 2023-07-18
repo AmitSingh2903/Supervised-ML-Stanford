@@ -2,14 +2,24 @@ WEEK 1 was an exciting Introduction to the world of Machine Learning (ML). Dr. A
 He explained that ML is all about building intelligent systems that can learn from data and improve their performance over time. He illustrated how ML algorithms can be broadly categorized into two types: 
 Supervised Learning and Unsupervised Learning.
 
-In this week, we focused on Supervised Learning, where the algorithm learns from labeled data to make predictions or decisions. Logistic Regression, a popular algorithm in Supervised Learning, was the star of the show. I learned how it's used for binary classification problems, where we aim to predict one of two possible outcomes.
+In this week, we focused on Supervised Learning, where the algorithm learns from labeled data to make predictions or decisions. 
+Logistic Regression, a popular algorithm in Supervised Learning, was the star of the show. 
+I learned how it's used for binary classification problems, where we aim to predict one of two possible outcomes.
 
-Andrew Ng's explanations were so intuitive that even as a beginner, I could grasp the underlying concepts easily. He delved into the mathematical representation of Logistic Regression and how it can be trained using a powerful optimization algorithm called Gradient Descent. I was fascinated by the idea of adjusting the model's parameters iteratively to minimize the cost function and achieve better predictions.
+Andrew Ng's explanations were so intuitive that even as a beginner, I could grasp the underlying concepts easily. 
+He delved into the mathematical representation of Logistic Regression and how it can be trained using a powerful optimization algorithm called Gradient Descent. 
+I was fascinated by the idea of adjusting the model's parameters iteratively to minimize the cost function and achieve better predictions.
 
-Moving on to WEEK 2, the focus shifted to preprocessing data for better model performance. Feature Scaling, a crucial step in data preparation, was explained in-depth. I learned how normalizing or standardizing features can prevent certain attributes from dominating the learning process and ensure a fair contribution from all features.
+Moving on to WEEK 2, the focus shifted to preprocessing data for better model performance. 
+Feature Scaling, a crucial step in data preparation, was explained in-depth. I learned how normalizing or standardizing features can prevent certain attributes from dominating the learning process and 
+ensure a fair contribution from all features.
 
-The concept of Polynomial Regression was another highlight of this week. It allowed us to capture nonlinear relationships between the input features and the output variable. Dr. Ng presented Polynomial Regression as an extension of Linear Regression, making the transition from one to the other seamless.
+The concept of Polynomial Regression was another highlight of this week. It allowed us to capture nonlinear relationships between the input features and the output variable. 
+Dr. Ng presented Polynomial Regression as an extension of Linear Regression, making the transition from one to the other seamless.
 
-Throughout this course, I appreciated Andrew Ng's emphasis on practical implementation. He frequently provided real-world examples and encouraged hands-on practice, which helped me gain a deeper understanding of the material.
+Throughout this course, I appreciated Andrew Ng's emphasis on practical implementation. 
+He frequently provided real-world examples and encouraged hands-on practice, which helped me gain a deeper understanding of the material.
 
-In conclusion, the first two weeks of the Supervised Machine Learning course with Andrew Ng were captivating and educational. I'm thrilled to have a solid foundation in Logistic Regression, Gradient Descent, Feature Scaling, and Polynomial Regression, and I can't wait to dive into the upcoming weeks to explore more advanced topics in the world of ML.
+In conclusion, the first two weeks of the Supervised Machine Learning course with Andrew Ng were captivating and educational. 
+I'm thrilled to have a solid foundation in Logistic Regression, Gradient Descent, Feature Scaling, and Polynomial Regression, and 
+I can't wait to dive into the upcoming weeks to explore more advanced topics in the world of ML.

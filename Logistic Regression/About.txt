@@ -1,1 +1,25 @@
-bgbergbnregnbjerbvnre
+In last and final week, WEEK 3 of the Supervised Machine Learning course with Andrew Ng, the journey into the fascinating world of Machine Learning continued with 
+an exploration of advanced regression techniques and evaluation metrics.
+
+One of the key topics covered during this week was Regularization. Andrew Ng explained how Regularization helps combat overfitting, 
+a common problem in machine learning where the model becomes too complex and performs well on the training data but poorly on unseen data. 
+I learned about two popular types of regularization: L1 regularization, which introduces a penalty term based on the absolute values of the model's parameters 
+and L2 regularization, which adds a penalty term based on the squared values of the parameters. 
+The practical implementation of regularization was thoughtfully demonstrated through coding exercises, which enriched my understanding of the concepts.
+
+As the week progressed, I dived into the world of Classification problems. Andrew Ng introduced the concept of Multiclass Classification, 
+where the algorithm predicts multiple classes instead of just two. To handle these scenarios, we learned about the One-vs-All (OvA) and One-vs-One (OvO) approaches. 
+The clarity with which Andrew Ng presented the pros and cons of each approach empowered me to make informed decisions when faced with multiclass classification tasks.
+
+Furthermore, the course emphasized the importance of using proper evaluation metrics to assess the model's performance accurately. 
+I gained insights into metrics like Precision, Recall, F1 Score, and Confusion Matrix, and learned how they provide a comprehensive view of the model's effectiveness in various scenarios. 
+Practical examples and interactive quizzes solidified my grasp on using these metrics effectively.
+
+In Week 3, the course also explored the powerful support vector machine (SVM) algorithm, which is widely used for both classification and regression tasks. Andrew Ng's step-by-step explanations made the seemingly complex SVM concept more approachable, and I was amazed by its ability to handle non-linear decision boundaries through the kernel trick.
+
+As the week concluded, I felt a growing sense of confidence in my ability to tackle real-world machine learning problems. 
+The combination of theoretical knowledge, hands-on coding exercises, and practical applications provided a comprehensive learning experience. 
+I realized how ML is not just about applying algorithms but also understanding the intricacies of each method and making informed choices based on the data and problem at hand.
+
+Overall, Week 3 was a thrilling journey into the world of advanced regression techniques, multiclass classification, and evaluation metrics. 
+I'm eagerly looking forward to Week 4, where I know I will be exposed to even more exciting concepts and challenges in the field of Supervised Machine Learning. Andrew Ng's passion for teaching and his ability to convey complex concepts in an accessible manner continue to inspire and motivate me on this incredible learning journey.
